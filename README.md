@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dtrott314! I am a data enthusiast with a background in Mathematics looking for an opportunity to apply my problem solving skills to make a difference in my community
+- 👀 I’m interested in statistical programming. I believe statistics can solve so many of society's issues. Used responsibly, it can be such a powerful tool for informing the public
+- 🌱 I’m currently learning R using Wickham and Grolemund's R for Data Science with the intention of moving on to Wickham's Advanced R. After/during that, I plan to work on some side projects. I am most interested in finding solutions to housing, workers rights, education, and health
